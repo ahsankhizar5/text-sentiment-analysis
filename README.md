@@ -76,7 +76,7 @@ text-sentiment-analysis/
    ```bash
    git clone https://github.com/ahsankhizar5/text-sentiment-analysis.git
    cd text-sentiment-analysis
-````
+   ````
 
 2. Install dependencies
 
